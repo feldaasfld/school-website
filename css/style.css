@@ -799,12 +799,18 @@ footer ul.vertical li i {
     .content .title p {
         font-size: 1rem;
     }
+    header .btn-ppdb {
+        margin-bottom: 15px;
+    }
     #home .title {
         justify-content: center;
     }
     #home img {
         width: 100%;
         height: auto;
+    }
+    #solution .row {
+        margin-bottom: 30px;
     }
     #about {
         padding-bottom: 50px;
@@ -828,17 +834,22 @@ footer ul.vertical li i {
     #gallery .container .row .content-article-third {
         margin-bottom: 30px;
     }
-    
     #profile .box {
         margin-bottom: 20px;
     }
-
+    #more-about .row {
+        margin-bottom: 30px;
+    }
+    #all-gallery .row {
+        margin-bottom: 30px;
+    }
     #all-gallery .row .content-article img {
         height: auto;
         width: 100%;
-
     }
-
+    #new-article .box {
+        margin-bottom: 30px;
+    }
     #new-article .container .row img {
         height: auto;
         width: 100%;
@@ -846,7 +857,9 @@ footer ul.vertical li i {
     #all-article .content-article {
         margin-bottom: 30px;
     }
-
+    #contact .box {
+        margin-bottom: 30px;
+    }
     #contact .row h5 {
         font-size: 1rem;
         margin-left: 30px;
