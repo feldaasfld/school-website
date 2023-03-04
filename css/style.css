@@ -45,6 +45,7 @@ main a .scrolltop i {
     color: #fff;
 }
 
+/*Header*/
 header .navbar {
     position: fixed;
     width: 100vw;
@@ -80,6 +81,7 @@ header .navbar-nav a:hover {
     color: #1C2661 (209, 207, 207);
 }
 
+/*Home*/
 #home {
     background-color: #fff !important;
 }
@@ -365,7 +367,6 @@ footer ul.vertical li i {
     padding: 8px;
 }
 
-
 /*Article*/
 #article .container .row-date-primary{
     flex-direction: row;
@@ -488,7 +489,6 @@ footer ul.vertical li i {
     margin-top: 10px;
     justify-content: center;
 }
-
 
 /*All Gallery*/
 #all-gallery {
