@@ -774,8 +774,17 @@ footer ul.vertical li i {
         font-size: 15px;
         padding: 15px;
     }
-    #contact .row{
-        margin-bottom: 35px;
+    #solution .row {
+        margin-bottom: 30px;
+    }
+    #more-about .box {
+        margin-bottom: 30px;
+    }
+    #new-article .box {
+        margin-bottom: 30px;
+    }
+    #contact .box{
+        margin-bottom: 30px;
     }
 }
 
