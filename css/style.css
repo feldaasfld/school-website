@@ -754,7 +754,9 @@ footer ul.vertical li i {
     #profile .row img {
         margin-bottom: 30px;
     }
-
+    #all-gallery .row {
+        margin-bottom: 30px;
+    }
     #all-gallery .content-article img {
         height: auto;
         width: 100%;
