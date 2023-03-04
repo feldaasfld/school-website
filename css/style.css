@@ -26,6 +26,7 @@ body{
   box-shadow: rgba(235, 28, 200, 0.15) 0px 48px 100px 0px;
 }
 
+/*Main*/
 main a .scrolltop {
     background-color: #F73ECF;
     position: fixed;
@@ -802,11 +803,16 @@ footer ul.vertical li i {
     header .btn-ppdb {
         margin-bottom: 15px;
     }
+    #home .row {
+        align-items: center;
+        justify-items: center;
+    }
     #home .title {
         justify-content: center;
+        align-items: center;
     }
     #home img {
-        width: 100%;
+        width: 340px;
         height: auto;
     }
     #solution .row {
@@ -814,6 +820,9 @@ footer ul.vertical li i {
     }
     #about {
         padding-bottom: 50px;
+    }
+    #about .row {
+        align-items: center;
     }
     #about .row img {
         width: 100%;
